@@ -1,0 +1,53 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 11,
+                "file" : "/Users/wt/APO/src/APO2.cpp",
+                "kind" : 6,
+                "line" : 5,
+                "name" : "SVT(arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@SVT#$@N@arma@C@Mat>#d#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/wt/APO/src/APO2.cpp",
+                "kind" : 6,
+                "line" : 18,
+                "name" : "shedmat0(arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@shedmat0#$@N@arma@C@Mat>#d#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/wt/APO/src/APO2.cpp",
+                "kind" : 6,
+                "line" : 29,
+                "name" : "projectmat(arma::mat, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@projectmat#$@N@arma@C@Mat>#d#S0_#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/wt/APO/src/APO2.cpp",
+                "kind" : 6,
+                "line" : 38,
+                "name" : "shedmat1(arma::mat, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@shedmat1#$@N@arma@C@Mat>#d#d#"
+            },
+            {
+                "column" : 11,
+                "file" : "/Users/wt/APO/src/APO2.cpp",
+                "kind" : 6,
+                "line" : 50,
+                "name" : "APO2(arma::mat, double, double, double, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@APO2#$@N@arma@C@Mat>#d#d#d#d#d#"
+            }
+        ],
+        "file" : "/Users/wt/APO/src/APO2.cpp",
+        "file_last_write" : 1510224406
+    }
+]
